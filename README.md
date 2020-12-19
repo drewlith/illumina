@@ -5,8 +5,11 @@ Web Version: https://drewlith.itch.io/illumina
 Windows: https://github.com/drewlith/illumina/releases/download/v0.2b/Illumina.zip
 
 Note the versions below have had very little testing and feedback would be much appreciated! (Don't worry, they're safe!)
+
 Mac: https://github.com/drewlith/illumina/releases/download/v0.1a-m/Illumina.zip
+
 Linux: https://github.com/drewlith/illumina/releases/download/v0.1a-l/Illumina.zip
+
 Android: https://github.com/drewlith/illumina/releases/download/v0.1a-a/Illumina.zip
 
 Please report any bugs or feedback to drewlith#8975 on Discord.
